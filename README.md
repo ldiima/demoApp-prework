@@ -1,6 +1,6 @@
-# Pre-work - *Prework*
+# Pre-work - *TipTip*
 
-**Prework** is a tip calculator application for iOS.
+**TipTip** is a tip calculator application for iOS.
 
 Submitted by: **Chantsaldiimaa (Dima) Lkhagvatogtokh**
 
@@ -24,6 +24,7 @@ The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app functionality!
 
+
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
@@ -35,10 +36,11 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+I didn't encounter any challenges while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2021] [name of copyright owner]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
