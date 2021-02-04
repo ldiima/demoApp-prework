@@ -6,7 +6,7 @@ Submitted by: **Chantsaldiimaa (Dima) Lkhagvatogtokh**
 
 Time spent: **1** hour spent in total
 
-## User Stories
+## User Storieas
 
 The following **required** functionality is complete:
 
@@ -24,23 +24,22 @@ The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app functionality!
 
-
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![](https://i.imgur.com/hpywwJI.gif)
+
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
-I didn't encounter any challenges while building the app.
+I haven't encountered any challenges while building the app :)
 
 ## License
 
-    Copyright [2021] [Dima Lkhagvatogtokh]
+    Copyright [2021] [name of copyright owner]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
